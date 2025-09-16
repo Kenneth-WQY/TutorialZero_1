@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(70,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(70,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(73,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(73,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(73,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(73,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(74,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(74,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(74,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CPP\TutorialZero_1\TutorialZero_1\源.cpp(74,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  TutorialZero_1.vcxproj -> D:\Project\CPP\TutorialZero_1\x64\Debug\TutorialZero_1.exe
